@@ -1,4 +1,4 @@
-# assignment
+# assigmentfullthrottle
 
 
 FullThrottle Labs Private Limited
@@ -9,3 +9,8 @@ URL: https://assignmentapt.herokuapp.com/api/members/
 
 
 try url with postman (method = GET)
+
+source code
+
+
+URL: https://github.com/RAJANNITCS/assigmentfullthrottle
