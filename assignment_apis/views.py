@@ -29,11 +29,11 @@ class MemberProfileApi(APIView):
 
 class FakeData(APIView):
     def get(self, request):
-        # create_user(10)
-        create_member()
-        # create_activity()
-        # create_activity()
-        # create_activity()
+        create_user(10)
+        # create_member()
+        create_activity()
+        create_activity()
+        create_activity()
         return Response("success")
 
 
